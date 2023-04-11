@@ -1,0 +1,32 @@
+*{margin: 0; padding: 0;}
+
+/* aplicar estilos a las etiquetas */
+
+body{
+    background-color: tan;
+}
+/* 
+h1{
+    color: darkred;
+}
+nav{background-color: beige;}
+main{background-color: aqua;}
+footer{background-color: rgb(94, 133, 133);}
+ */
+
+ /*Estilos a clases */
+
+ .titulo{
+    text-align: center;
+    font-size: 36px;
+    text-transform: uppercase;
+    color: brown;
+ }
+
+ .Sirve{
+    border: 1px solid;
+    /* margin: 20px 100px 20px 50px; */
+    margin: 20px 100px;
+    padding: 20px 10px 0px 50px;
+    height: 250px;
+ }
